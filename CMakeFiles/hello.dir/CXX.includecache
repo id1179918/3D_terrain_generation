@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/R.Thomas/Documents/3D_terrain_generation/main.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+GL/glew.h
+-
+GLFW
+-
+glm/glm.hpp
+-
+

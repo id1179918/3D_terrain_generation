@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/locallib.dir/main.c.c.o CMakeFiles/locallib.dir/init.c.o  -o locallib ../Common/libCommon.a -lGLESv2 -lEGL -lSM -lICE -lX11 -lXext -lm 
